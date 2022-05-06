@@ -1,6 +1,11 @@
 # Data_Science
 My work in data science
 
+Python: 
+Written a program for registration using email id and for login.
+
+Using class and objects written a program for updating the data of the employees. 
+
 DataScience_Project : Chennai house price prediction :
 
 Created a machine learning model model to understand the different factors that influence the price of a house in the city of chennai.
