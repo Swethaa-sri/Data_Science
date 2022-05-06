@@ -2,9 +2,10 @@
 My work in data science
 
 Python: 
-Written a program for registration using email id and for login.
 
-Using class and objects written a program for updating the data of the employees. 
+1)  Written a program for registration using email id and for login.
+
+2)  Using class and objects written a program for updating the data of the employees. 
 
 DataScience_Project : Chennai house price prediction :
 
